@@ -1,11 +1,3 @@
-Linkem Stats Extension
-
-With this extension you can have a new Dashboard for your router Linkem or any other router for LTE that Gemtek or Huawei.
-
-You can view it in comfort of your connection status and the use of your bandwidth !
-
-
-
 # Linkem Stats Extension
 
 With this extension you can have a new Dashboard for your router Linkem or any other router for LTE that Gemtek or Huawei without touch original Firmware.
