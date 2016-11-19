@@ -2,8 +2,6 @@
 
 With this extension you can have a new Dashboard for your router Linkem or any other router for LTE that Gemtek or Huawei without touch original Firmware.
 
-Pyechonest is an open source Python library for the Echo Nest API.  With Pyechonest you have Python access to the entire set of API methods including:
-
 * **Signal** - view in real time your connection status.
 * **Bandwidth** - check your download and upload into your browser.
 * **Simply and lightweight** - freed from the usual dashboard and utilizzane a new lighter version and watchable.
